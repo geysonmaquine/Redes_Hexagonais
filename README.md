@@ -1,4 +1,4 @@
-# Construção de Redes Hexagonauis em Python
+# Construção de Redes Hexagonais em Python
 ## Redes:
 - Grafeno
 - Grafite 
